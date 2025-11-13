@@ -45,7 +45,6 @@ class ImageProcessor():
         return img
 
     def process_image(self, cv_image):
-        # Dummy image processing logic, replace with your actual logic
         processed_data = [float(cv_image.shape[0]), float(cv_image.shape[1])]
         return processed_data
 
