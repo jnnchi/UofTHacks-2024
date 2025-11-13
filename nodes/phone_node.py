@@ -8,7 +8,7 @@ from cv_bridge import CvBridge
 import cv2
 import numpy as np
 import requests
-import imutils  # Make sure imutils is installed
+import imutils 
 import math
 import json
 from pub import MinimalPublisher
